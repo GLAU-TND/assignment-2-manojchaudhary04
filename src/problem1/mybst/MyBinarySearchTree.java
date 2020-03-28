@@ -10,10 +10,10 @@ import problem1.node.TreeNode;
 
 // to implement BinarySearchTree
 public class MyBinarySearchTree {
-    TreeNode root;
+    public TreeNode root;
     int count;
 
-    MyBinarySearchTree() {
+    public MyBinarySearchTree() {
         root = null;
     }
 
@@ -48,7 +48,7 @@ public class MyBinarySearchTree {
 
     }
 
-    void printleft(TreeNode root) {
+    public void printleft(TreeNode root) {
         if (root == null) {
             return;
         } else {
