@@ -26,6 +26,5 @@ public class MyMain {
         obj.postOrder(obj.root);
         System.out.println("\nFirst statement is true");
         System.out.println("Second statement is False as we didn't get the middle point same.");
-
     }
 }
