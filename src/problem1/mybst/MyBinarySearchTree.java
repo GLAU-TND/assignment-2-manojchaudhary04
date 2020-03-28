@@ -79,4 +79,10 @@ public class MyBinarySearchTree {
 
         }
     }
+
+    public void preOrder(TreeNode root) {
+    }
+
+    public void postOrder(TreeNode root) {
+    }
 }
