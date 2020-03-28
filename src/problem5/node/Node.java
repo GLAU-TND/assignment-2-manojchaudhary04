@@ -44,4 +44,5 @@ public class Node {
 
     public void setStudent(Student s) {
     }
+
 }
