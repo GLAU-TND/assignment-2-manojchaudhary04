@@ -23,10 +23,7 @@ public class MyQueue {
         } else {
             rear.setNext(newnode);
             rear = newnode;
-
         }
-
-
     }
 
     public void getpreordersuccessor(TreeNode root) {
