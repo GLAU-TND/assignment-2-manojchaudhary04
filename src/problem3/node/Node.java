@@ -48,7 +48,8 @@ public class Node {
     public void setNext(Node newnode) {
     }
 
-    public void getNext() {
+    public Node getNext() {
+        return null;
     }
 
     public void getData() {
